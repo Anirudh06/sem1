@@ -1,6 +1,7 @@
 #include <iostream>
 #include<bits/stdc++.h>
 #include<algorithm>
+//include<algorithm>
 using namespace std;
 
 int fun(char arr1[], char arr2[],int m,int n){
