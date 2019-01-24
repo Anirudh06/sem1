@@ -28,7 +28,7 @@ int main() {
     int m = strlen(X); 
     int n = strlen(Y); 
     //fun(X,Y,m,n);
-    cout<<fun(X,Y,m,n);
+    std::cout<<fun(X,Y,m,n);
     return 0;
 }
 
